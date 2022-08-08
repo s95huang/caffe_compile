@@ -47,6 +47,8 @@ source ~/.bashrc
 ```
 * Test caffe in terminal
 ```
+pip install protobuf
+
 python
 import caffe
 caffe.__version__
