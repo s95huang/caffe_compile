@@ -13,6 +13,7 @@ sudo apt-get install python-dev
 sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
 sudo apt-get install libhdf5-serial-dev
 sudo apt-get install libopenblas-dev
+sudo apt-get install libleveldb-dev
 
 
 ```
